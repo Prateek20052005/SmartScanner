@@ -4,7 +4,7 @@ A document scanning application that transforms messy phone photos into clean, r
 
 ## Overview
 
-Point your phone at a document — a receipt, exam paper, printed page, handwritten notes — and SmartScanner will detect the document boundaries, correct the perspective distortion, enhance the image for readability, and extract the text. It handles angled shots, uneven lighting, and cluttered backgrounds.
+Point your phone at a document, a receipt, exam paper, printed page, handwritten notes  and SmartScanner will detect the document boundaries, correct the perspective distortion, enhance the image for readability, and extract the text. It handles angled shots, uneven lighting, and cluttered backgrounds.
 
 ## How It Works
 
@@ -48,7 +48,7 @@ OCR quality depends directly on scan quality. The manual corner adjustment featu
 - **Four enhancement modes**: adaptive threshold (scanner look), CLAHE (contrast boost), sharpened (OCR-optimized), and grayscale
 - **Text extraction** with Tesseract OCR
 - **Download options** for both the scanned image and extracted text
-- **Works on any document** — receipts, printed pages, handwritten notes, forms
+- **Works on any document** whether it be receipts, printed pages, handwritten notes, or even forms
 
 ## Project Structure
 
